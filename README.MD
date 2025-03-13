@@ -9,3 +9,25 @@ Este é o meu primeiro repositório no GitHub. Estou começando minha jornada no
 - 📝 Projetos simples e tutoriais
 - 💡 Anotações e dicas
 - 🛠️ Experimentos com código
+
+## 🌱 Tecnologias que estou aprendendo:
+ 
+- HTML
+- CSS
+- JavaScript
+- Git e GitHub
+
+CRIE UM COMMIT DESTA SEÇÃO E FAçA UM PUSH!!!
+## 🎯 Objetivo
+ 
+Meu objetivo é me tornar um desenvolvedor web e criar projetos incríveis no futuro.
+
+CRIE UM COMMIT DESTA SEÇÃO E FAçA UM PUSH!!!
+ 
+## 💬 Contato
+ 
+Se quiser trocar uma ideia ou compartilhar dicas, me avise! 😊
+ 
+---
+ 
+**Obrigado por visitar meu repositório!** ✨
